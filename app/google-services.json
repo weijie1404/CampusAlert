@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1912740174",
+    "firebase_url": "https://campusalertv1.firebaseio.com",
+    "project_id": "campusalertv1",
+    "storage_bucket": "campusalertv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1912740174:android:b4b87fb179814ea9",
+        "android_client_info": {
+          "package_name": "com.campus_alert_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1912740174-26t0kisaqvcg5g2lpudedfiva3tk63sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campus_alert_v1",
+            "certificate_hash": "5e466624e99974ef7e056ef67c1d4eb1867ff773"
+          }
+        },
+        {
+          "client_id": "1912740174-0r8ugkdk6dmdoejbp33nmjrjh5mqfqol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYy2LETE0LWiL0Oa3PWVa2mL7gC9M8w2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1912740174-0r8ugkdk6dmdoejbp33nmjrjh5mqfqol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
